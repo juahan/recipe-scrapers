@@ -7,6 +7,9 @@ class ACoupleCooks(AbstractScraper):
     def host(cls):
         return "acouplecooks.com"
 
+    def author(cls):
+        return "A Couple Cooks"
+
     def title(self):
         return self.schema.title()
 

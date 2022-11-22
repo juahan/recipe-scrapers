@@ -23,7 +23,7 @@ class TestACoupleCooks(ScraperTest):
         )
 
     def test_author(self):
-        self.assertEqual(self.harvester_class.author(), "Sonja Overhiser")
+        self.assertEqual(self.harvester_class.author(), "A Couple Cooks")
 
     def test_total_time(self):
         self.assertEqual(8, self.harvester_class.total_time())
