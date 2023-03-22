@@ -194,6 +194,7 @@ Scrapers available for:
 - `https://kochbar.de/ <https://kochbar.de>`_
 - `http://koket.se/ <http://koket.se>`_
 - `https://www.kptncook.com/ <https://www.kptncook.com>`_
+- `https://www.k-ruoka.fi/ <https://www.k-ruoka.fi>`_
 - `https://kuchnia-domowa.pl/ <https://www.kuchnia-domowa.pl/>`_
 - `https://www.kwestiasmaku.com/ <https://www.kwestiasmaku.com/>`_
 - `https://www.latelierderoxane.com <https://www.latelierderoxane.com/blog/recettes/>`_

@@ -118,6 +118,7 @@ from .kitchenstories import KitchenStories
 from .kochbar import Kochbar
 from .koket import Koket
 from .kptncook import KptnCook
+from .kruoka import KRuoka
 from .kuchniadomowa import KuchniaDomowa
 from .kwestiasmaku import KwestiaSmaku
 from .latelierderoxane import LAtelierDeRoxane
@@ -368,6 +369,7 @@ SCRAPERS = {
     Koket.host(): Koket,
     KptnCook.host(): KptnCook,
     KptnCook.host(subdomain="sharing"): KptnCook,
+    KRuoka.host(): KRuoka,
     KuchniaDomowa.host(): KuchniaDomowa,
     KwestiaSmaku.host(): KwestiaSmaku,
     LAtelierDeRoxane.host(): LAtelierDeRoxane,
